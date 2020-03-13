@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Testing1" max_length="40" name="x_58872_needit_testing1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Must have By" label="Must have By" max_length="40" name="u_must_have_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Requested For" label="Requested For" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Request type" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Discription" label="Short Discription" max_length="40" name="u_short_discription" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=What Needed" label="What Needed" max_length="40" name="u_what_needed" type="string"/>
+    </element>
+</database>
